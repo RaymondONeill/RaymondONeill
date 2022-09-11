@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)
 <h1 align="center">Hi, I'm Raymond O'Neill</h1>
 <h3 align="center">A passionate backend developer from California</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AliveAdmirableEidolonhelvum-max-1mb.gif">
