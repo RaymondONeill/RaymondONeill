@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raymondoneill&label=Profile%20views&color=0e75b6&style=flat" alt="raymondoneill" /> </p>
 
-- 🔭 I’m currently working on my own AI to solve complex medical solutions. [MARVIN](I haven't actually uploaded this to GitHub yet)
+- 🔭 I am currently trying to teach myself about machine learning. I Would like to create my own AI some day.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaymondONeill](https://github.com/RaymondONeill)
 
