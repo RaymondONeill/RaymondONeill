@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **oneillraymond71@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/19MPiVBIEwDE3MN7uYYofGCz9SFWUms7y2iCNKHhDHPI/edit?usp=sharing](https://docs.google.com/document/d/19MPiVBIEwDE3MN7uYYofGCz9SFWUms7y2iCNKHhDHPI/edit?usp=sharing)
-
 - ⚡ Fun fact **I love to work on cars and go to the race track.**
 
 <h3 align="left">Connect with me:</h3>
